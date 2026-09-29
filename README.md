@@ -152,10 +152,9 @@ Universidade Estadual de Ponta Grossa — UEPG
 
 ## 📚 Atualmente estudando
 
-```text
-🐍 Python          ███████████████░
-⚡ Backend         ████████████░░░
-🗄️ PostgreSQL     ██████████░░░░░
-📊 Data Analysis  ███████████░░░░
-🧠 Machine Learning █████████░░░░░
-🇺🇸 English        ███████░░░░░░░
+- 🐍 **Python** — foco principal
+- ⚡ **Backend** — foco principal
+- 🗄️ **PostgreSQL** — em evolução
+- 📊 **Análise de Dados** — em evolução
+- 🧠 **Machine Learning** — aprofundando
+- 🇺🇸 **English** — desenvolvimento contínuo
